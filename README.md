@@ -13,15 +13,8 @@ Tools Used
 
 Power BI: Data modeling and dashboard creation
 Canva & PowerPoint: Design and presentation
-OBS Studio (Optional): Recording presentations (if applicable)
+OBS Studio: Recording presentations
 Excel: Data validation and cleaning
-Getting Started
-
-Clone this repository.
-Install required dependencies (if any).
-Open the project in Power BI Desktop.
-Explore the dashboards and reports.
-Note: This project may require additional data sources or configuration depending on the specific data used.
 
 Feel free to reach out with any questions!
 
